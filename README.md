@@ -1,9 +1,6 @@
 # Porsche Watch Website  
 _A sleek, premium landing page for a luxury “Porsche”‑style watch_ 🚀
 
-[![License: MIT](https://img.shields.io/badge/License‑MIT‑blue.svg)](LICENSE)  
-[![Built with HTML / CSS / JavaScript](https://img.shields.io/badge/Tech‑HTML%2FCSS%2FJS‑violet.svg)]()
-
 ## Table of Contents  
 - [About](#about)
 - [Features](#features)  
